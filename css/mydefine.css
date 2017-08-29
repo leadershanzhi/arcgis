@@ -1,0 +1,14 @@
+/*对于百度地图显示的定义*/
+@CHARSET "UTF-8";
+    .iw_poi_title {color:#CC5522;font-size:14px;font-weight:bold;overflow:hidden;padding-right:13px;white-space:nowrap}
+    .iw_poi_content {font:12px arial,sans-serif;overflow:visible;padding-top:4px;white-space:-moz-pre-wrap;word-wrap:break-word}
+/*对于百度地图显示的定义*/
+
+/*对于首页消息滚动的css定义*/
+#home{position:absolute; top:30px;}
+#news a{display:block;line-height:20px;text-decoration:none;font-family:微软雅黑;font-size:13px;}
+.like{font-family:微软雅黑;font-size:13px;}
+#news a:hover{text-decoration:underline;}
+#news{height:200px;width:500px;overflow:hidden;}
+/*对于首页消息滚动的css定义*/
+
